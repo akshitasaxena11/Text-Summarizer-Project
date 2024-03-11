@@ -16,3 +16,4 @@ logging.basicConfig(
     ]
 )
 logger=logging.getLogger("textSummarizerLogger")
+logger.info("Welcome to our custom logging")
